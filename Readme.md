@@ -13,7 +13,7 @@ App to generate daily trade reports for incoming json data.
     - cd trade-reporting
     - mvn clean package
 
-## Run Daily Trading Report
+## Run Daily Trading Report App
 
     - java -jar target/trade-reporting-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 
