@@ -1,0 +1,32 @@
+[
+	{
+		"entity": "foo",
+		"tradeType": "B",
+		"currency": "GBP",
+		"units": 200,
+		"unitPrice": 100.25,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-23",
+		"settlementDate": "2019-03-23"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "S",
+		"currency": "AED",
+		"units": 450,
+		"unitPrice": 150.5,
+		"agreedFx": 0.22,
+		"instructionDate": "2019-03-22",
+		"settlementDate": "2019-03-22"
+	},
+	{
+		"entity": "bar2",
+		"tradeType": "S",
+		"currency": "USD",
+		"units": 450,
+		"unitPrice": 150.5,
+		"agreedFx": 0.22,
+		"instructionDate": "2019-03-21",
+		"settlementDate": "2019-03-21"
+	}
+]

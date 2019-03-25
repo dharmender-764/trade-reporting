@@ -1,0 +1,232 @@
+[
+	{
+		"entity": "foo",
+		"tradeType": "B",
+		"currency": "GBP",
+		"units": 200,
+		"unitPrice": 100.25,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-02",
+		"settlementDate": "2019-03-02"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "S",
+		"currency": "AED",
+		"units": 450,
+		"unitPrice": 150.5,
+		"agreedFx": 0.22,
+		"instructionDate": "2019-03-05",
+		"settlementDate": "2019-03-07"
+	},
+	{
+		"entity": "foo",
+		"tradeType": "S",
+		"currency": "GBP",
+		"units": 100,
+		"unitPrice": 125.5,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-01",
+		"settlementDate": "2019-03-02"
+	},
+	{
+		"entity": "foo",
+		"tradeType": "S",
+		"currency": "GBP",
+		"units": 200,
+		"unitPrice": 115.5,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-02",
+		"settlementDate": "2019-03-03"
+	},
+	{
+		"entity": "foo",
+		"tradeType": "S",
+		"currency": "GBP",
+		"units": 300,
+		"unitPrice": 105.5,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-03",
+		"settlementDate": "2019-03-04"
+	},
+	{
+		"entity": "foo",
+		"tradeType": "B",
+		"currency": "CHF",
+		"units": 125,
+		"unitPrice": 55.25,
+		"agreedFx": 1.2,
+		"instructionDate": "2019-03-05",
+		"settlementDate": "2019-03-06"
+	},
+	{
+		"entity": "foo",
+		"tradeType": "B",
+		"currency": "CAD",
+		"units": 25,
+		"unitPrice": 600.32,
+		"agreedFx": 0.8,
+		"instructionDate": "2019-03-01",
+		"settlementDate": "2019-03-02"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "B",
+		"currency": "CHF",
+		"units": 10,
+		"unitPrice": 600.50,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-12",
+		"settlementDate": "2019-03-18"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "B",
+		"currency": "EUR",
+		"units": 100,
+		"unitPrice": 20.37,
+		"agreedFx": 0.82,
+		"instructionDate": "2019-03-07",
+		"settlementDate": "2019-03-08"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "B",
+		"currency": "CHF",
+		"units": 10,
+		"unitPrice": 600.50,
+		"agreedFx": 0.5,
+		"instructionDate": "2019-03-12",
+		"settlementDate": "2019-03-14"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "S",
+		"currency": "GBP",
+		"units": 26,
+		"unitPrice": 32.15,
+		"agreedFx": 0.6,
+		"instructionDate": "2019-03-11",
+		"settlementDate": "2019-03-12"
+	},
+	{
+		"entity": "bar",
+		"tradeType": "S",
+		"currency": "EUR",
+		"units": 26,
+		"unitPrice": 64.31,
+		"agreedFx": 1.6,
+		"instructionDate": "2019-03-01",
+		"settlementDate": "2019-03-12"
+	},
+	{
+		"entity": "smw",
+		"tradeType": "B",
+		"currency": "GBP",
+		"units": 32,
+		"unitPrice": 100.37,
+		"agreedFx": 0.8,
+		"instructionDate": "2019-03-01",
+		"settlementDate": "2019-03-13"
+	},
+	{
+		"entity": "smw",
+		"tradeType": "B",
+		"currency": "GBP",
+		"units": 64,
+		"unitPrice": 26.34,
+		"agreedFx": 0.9,
+		"instructionDate": "2019-03-23",
+		"settlementDate": "2019-03-14"
+	},
+	{
+		"entity": "smw",
+		"tradeType": "B",
+		"currency": "GBP",
+		"units": 128,
+		"unitPrice": 32.56,
+		"agreedFx": 1,
+		"instructionDate": "2019-03-15",
+		"settlementDate": "2019-03-17"
+	},
+	{
+		"entity": "smw",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 128,
+		"unitPrice": 32.56,
+		"agreedFx": 1,
+		"instructionDate": "2019-03-17",
+		"settlementDate": "2019-03-18"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 10,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-19",
+		"settlementDate": "2019-03-20"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "SAR",
+		"units": 20,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-21",
+		"settlementDate": "2019-03-22"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 30,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-23",
+		"settlementDate": "2019-03-24"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 40,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-25",
+		"settlementDate": "2019-03-25"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 50,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-26",
+		"settlementDate": "2019-03-28"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 60,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-29",
+		"settlementDate": "2019-03-29"
+	},
+	{
+		"entity": "jrx",
+		"tradeType": "B",
+		"currency": "AED",
+		"units": 10,
+		"unitPrice": 20,
+		"agreedFx": 2,
+		"instructionDate": "2019-03-29",
+		"settlementDate": "2019-03-30"
+	}
+]
