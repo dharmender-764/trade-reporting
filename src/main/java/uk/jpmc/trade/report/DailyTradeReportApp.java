@@ -28,7 +28,7 @@ public class DailyTradeReportApp {
 		if (tradeInstructions != null && tradeInstructions.size() >= 1) {
 			TradeReportService tradeReportService = new TradeReportService();
 			tradeReportService.generateReportForInstructions(tradeInstructions);
-			System.out.println("Generating daily trade reports job executed successfully");
+			System.out.println("Daily trade reports job executed successfully");
 			return true;
 		}
 		return false;

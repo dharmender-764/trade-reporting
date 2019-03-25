@@ -31,7 +31,7 @@ public class MiddleEastWeekendHandler implements IWeekendHandler {
 	public LocalDate getUpdatedSettlementDate(LocalDate settlementDate) {
 		DayOfWeek dayOfWeek = settlementDate.getDayOfWeek();
 		if (dayOfWeek == DayOfWeek.FRIDAY || dayOfWeek == DayOfWeek.SATURDAY) {
-			System.out.println("FriSatWeekendHandler: Day of week falls on weekend, updating to next working day");
+			System.out.println("MiddleEastWeekendHandler: Day of week falls on weekend, updating to next working day");
 			settlementDate = settlementDate.plusDays(1);
 			getUpdatedSettlementDate(settlementDate);
 		}
