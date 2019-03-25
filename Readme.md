@@ -9,6 +9,7 @@ App to generate daily trade reports for incoming json data.
 
 ## Build Instructions.
 
+    - git clone https://github.com/dharmender-764/trade-reporting.git
     - cd trade-reporting
     - mvn clean package
 
