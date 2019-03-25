@@ -69,6 +69,7 @@
                     <excludes>
                         <exclude>uk/jpmc/trade/report/model/*</exclude>
                         <exclude>uk/jpmc/trade/report/constants/*</exclude>
+                        <exclude>uk/jpmc/trade/report/utils/*</exclude>
                     </excludes>
                 </configuration>
 				<executions>
